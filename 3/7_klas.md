@@ -23,144 +23,37 @@
 <b><i>Зміст розділу:</i></b>
 
 <ul type="disc">
-<li class="chapter " data-level="1" data-path="vstup.html">
-        <a href="vstup.html">
-                <b></b>
-            Вступ
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="iz_pisennykh_skarbyv.html">
-        <a href="iz_pisennykh_skarbyv.html">
-                <b></b>
-            Із пісенних скарбів
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="pro_mynuli_chasy.html">
-        <a href="pro_mynuli_chasy.html">
-                <b></b>
-            Про минулі часи
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="franko.html">
-        <a href="franko.html">
-                <b></b>
-            Іван Франко
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="shevchenko.html">
-        <a href="shevchenko.html">
-                <b></b>
-            Тарас Шевченко
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="chaykovsky.html">
-        <a href="chaykovsky.html">
-                <b></b>
-            Андрій Чайковський
-        </a>
-</li>
-<li class="chapter " data-level="4" data-path="stelmakh.html">
-        <a href="stelmakh.html">
-                <b></b>
-            Михайло Стельмах
-        </a>
-</li>
-<li class="chapter " data-level="5" data-path="tyutyunnyk.html">
-        <a href="tyutyunnyk.html">
-                <b></b>
-            Григір Тютюнник
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="4" data-path="ty_znaesh_sho_ty_lyudyna.html">
-        <a href="ty_znaesh_sho_ty_lyudyna.html">
-                <b></b>
-            «Ти знаєш, що ти — людина...»
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="storozhenko.html">
-        <a href="storozhenko.html">
-                <b></b>
-            Олекса Стороженко Або Степан Процюк
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="lepkyu.html">
-        <a href="lepkyu.html">
-                <b></b>
-            Богдан Лепкий
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="kostenko.html">
-        <a href="kostenko.html">
-                <b></b>
-            Ліна Костенко
-        </a>
-</li>
-<li class="chapter " data-level="4" data-path="symonenko.html">
-        <a href="symonenko.html">
-                <b></b>
-            Василь Симоненко
-        </a>
-</li>
-<li class="chapter " data-level="5" data-path="pavlenko.html">
-        <a href="pavlenko.html">
-                <b></b>
-            Марина Павленко
-        </a>
-</li>
-<li class="chapter " data-level="6" data-path="ponomarenko.html">
-        <a href="ponomarenko.html">
-                <b></b>
-            Любов Пономаренко
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="5" data-path="mi_ukrainci.html">
-        <a href="mi_ukrainci.html">
-                <b></b>
-            Ми - українці
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="olzhych_teliga.html">
-        <a href="olzhych_teliga.html">
-                <b></b>
-            Олег Ольжич. Олена Теліга
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="gavrosh.html">
-        <a href="gavrosh.html">
-                <b></b>
-            Олександр Гаврош
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="malyshko.html">
-        <a href="malyshko.html">
-                <b></b>
-            Андрій Малишко
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="6" data-path="literatura_rydnogo_krayu.html">
-        <a href="literatura_rydnogo_krayu.html">
-                <b></b>
-            Література рідного краю
-        </a>
-</li>
-<li class="chapter " data-level="7" data-path="urok_pydsumok.html">
-        <a href="urok_pydsumok.html">
-                <b></b>
-            Урок-підсумок
-        </a>
-</li>
-<li class="chapter " data-level="8" data-path="dodatkova_lyteratura.html">
-        <a href="dodatkova_lyteratura.html">
-                <b></b>
-            Додаткова література для читання
-        </a>
-</li>
+    <li><a href="./vstup.md">Вступ</a></li>
+    <li><a href="./iz_pisennykh_skarbyv.md">Із пісенних скарбів</a></li>
+    <li><a href="./pro_mynuli_chasy.md">Про минулі часи</a>
+        <ul>
+            <li><a href="./franko.md">Іван Франко</a></li>
+            <li><a href="./shevchenko.md">Тарас Шевченко</a></li>
+            <li><a href="./chaykovsky.md">Андрій Чайковський</a></li>
+            <li><a href="./stelmakh.md">Михайло Стельмах</a></li>
+            <li><a href="./tyutyunnyk.md">Григір Тютюнник</a></li>
+        </ul>
+    </li>
+    <li><a href="./ty_znaesh_sho_ty_lyudyna.md">«Ти знаєш, що ти — людина...»</a>
+        <ul>
+            <li><a href="./storozhenko.md">Олекса Стороженко Або Степан Процюк</a></li>
+            <li><a href="./lepkyu.md">Богдан Лепкий</a></li>
+            <li><a href="./kostenko.md">Ліна Костенко</a></li>
+            <li><a href="./symonenko.md">Василь Симоненко</a></li>
+            <li><a href="./pavlenko.md">Марина Павленко</a></li>
+            <li><a href="./ponomarenko.md">Любов Пономаренко</a></li>
+        </ul>
+    </li>
+    <li><a href="./mi_ukrainci.md">Ми - українці</a>
+        <ul>
+            <li><a href="./olzhych_teliga.md">Олег Ольжич. Олена Теліга</a></li>
+            <li><a href="./gavrosh.md">Олександр Гаврош</a></li>
+            <li><a href="./malyshko.md">Андрій Малишко</a></li>
+        </ul>
+    </li>
+    <li><a href="./literatura_rydnogo_krayu.md">Література рідного краю</a></li>
+    <li><a href="./urok_pydsumok.md">Урок-підсумок</a></li>
+    <li><a href="./dodatkova_lyteratura.md">Додаткова література для читання</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

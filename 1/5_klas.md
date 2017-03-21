@@ -24,164 +24,49 @@
 
 <b><i>Зміст розділу:</i></b>
 <ul type="disc">
-<li class="chapter " data-level="1" data-path="vstup.html">
-        <a href="vstup.html">
-                <b></b>
-            Вступ
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="svyt_fantazyi_ta_mudrosty.html">
-        <a href="svyt_fantazyi_ta_mudrosty.html">
-                <b></b>
-            Світ фантазії та мудрості
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="narodni_kazky.html">
-        <a href="narodni_kazky.html">
-                <b></b>
-            Народні казки
-        </a>
-</li>
-<li class="chapter " data-level="4" data-path="literaturny_kazky.html">
-        <a href="literaturny_kazky.html">
-                <b></b>
-            Літературні казки
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="franko.html">
-        <a href="franko.html">
-                <b></b>
-            Іван Франко
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="koroliv_staryu.html">
-        <a href="koroliv_staryu.html">
-                <b></b>
-            Василь Королів-Старий
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="symonenko.html">
-        <a href="symonenko.html">
-                <b></b>
-            Василь Симоненко
-        </a>
-</li>
-<li class="chapter " data-level="4" data-path="malyk.html">
-        <a href="malyk.html">
-                <b></b>
-            Галина Малик
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="5" data-path="iz_narodnoyu_mudrosty.html">
-        <a href="iz_narodnoyu_mudrosty.html">
-                <b></b>
-            Із народної мудрості
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="zagadky_pryslivya_ta_prikazky.html">
-        <a href="zagadky_pryslivya_ta_prikazky.html">
-                <b></b>
-            Загадки. Прислів’я та приказки
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="glibov.html">
-        <a href="glibov.html">
-                <b></b>
-            Леонід Глібов
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="6" data-path="istorychne_mynule_nashogo_narodu.html">
-        <a href="istorychne_mynule_nashogo_narodu.html">
-                <b></b>
-            Історичне минуле нашого народу
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="litopysny_opovydy.html">
-        <a href="litopysny_opovydy.html">
-                <b></b>
-            Літописні оповіді
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="oles.html">
-        <a href="oles.html">
-                <b></b>
-            Олександр Олесь
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="menzatyuk.html">
-        <a href="menzatyuk.html">
-                <b></b>
-            Зірка Мензатюк
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="7" data-path="rydna_ukrayina_svyt_pryrody.html">
-        <a href="rydna_ukrayina_svyt_pryrody.html">
-                <b></b>
-            Рідна Україна. Світ природи
-        </a>
-    <ul type="square">
-<li class="chapter " data-level="1" data-path="shevchenko.html">
-        <a href="shevchenko.html">
-                <b></b>
-            Тарас Шевченко
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="tuchyna.html">
-        <a href="tuchyna.html">
-                <b></b>
-            Павло Тичина
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="gucalo.html">
-        <a href="gucalo.html">
-                <b></b>
-            Євген Гуцало
-        </a>
-</li>
-<li class="chapter " data-level="4" data-path="rylskyu.html">
-        <a href="rylskyu.html">
-                <b></b>
-            Максим Рильський
-        </a>
-</li>
-<li class="chapter " data-level="5" data-path="tyutyunnyk.html">
-        <a href="tyutyunnyk.html">
-                <b></b>
-            Григір Тютюнник
-        </a>
-</li>
-<li class="chapter " data-level="6" data-path="vyngranovskyu.html">
-        <a href="vyngranovskyu.html">
-                <b></b>
-            Микола Вінграновський
-        </a>
-</li>
-    </ul>
-</li>
-<li class="chapter " data-level="8" data-path="literatura_rydnogo_krayu.html">
-        <a href="literatura_rydnogo_krayu.html">
-                <b></b>
-            Література рідного краю
-        </a>
-</li>
-<li class="chapter " data-level="9" data-path="urok_pydsumok.html">
-        <a href="urok_pydsumok.html">
-                <b></b>
-            Урок-підсумок
-        </a>
-</li>
-<li class="chapter " data-level="10" data-path="dodatkova_lyteratura.html">
-        <a href="dodatkova_lyteratura.html">
-                <b></b>
-            Додаткова література для читання
-        </a>
-</li>
+    <li><a href="./vstup.md">Вступ</a></li>
+    <li><a href="./svyt_fantazyi_ta_mudrosty.md">Світ фантазії та мудрості</a></li>
+    <li><a href="./narodni_kazky.md">Народні казки</a></li>
+    <li><a href="./literaturny_kazky.md">Літературні казки</a>
+        <ul>
+            <li><a href="./franko.md">Іван Франко</a></li>
+            <li><a href="./koroliv_staryu.md">Василь Королів-Старий</a></li>
+            <li><a href="./symonenko.md">Василь Симоненко</a></li>
+            <li><a href="./malyk.md">Галина Малик</a></li>
+        </ul>
+    </li>
+    <li><a href="./iz_narodnoyu_mudrosty.md">Із народної мудрості</a>
+        <ul>
+            <li><a href="./zagadky_pryslivya_ta_prikazky.md">Загадки. Прислів’я та приказки</a></li>
+            <li><a href="./glibov.md">Леонід Глібов</a></li>
+        </ul>
+    </li>
+    <li><a href="./istorychne_mynule_nashogo_narodu.md">Історичне минуле нашого народу</a>
+        <ul>
+            <li><a href="./litopysny_opovydy.md">Літописні оповіді</a></li>
+            <li><a href="./oles.md">Олександр Олесь</a></li>
+            <li><a href="./menzatyuk.md">Зірка Мензатюк</a></li>
+        </ul>
+    </li>
+    <li><a href="./rydna_ukrayina_svyt_pryrody.md">Рідна Україна. Світ природи</a>
+        <ul>
+            <li><a href="./shevchenko.md">Тарас Шевченко</a></li>
+            <li><a href="./tuchyna.md">Павло Тичина</a></li>
+            <li><a href="./gucalo.md">Євген Гуцало</a></li>
+            <li><a href="./rylskyu.md">Максим Рильський</a>
+                <br />
+            </li>
+            <li><a href="./tyutyunnyk.md">Григір Тютюнник</a>
+                <br />
+            </li>
+            <li><a href="./vyngranovskyu.md">Микола Вінграновський</a>
+                <br />
+            </li>
+        </ul>
+    </li>
+    <li><a href="./literatura_rydnogo_krayu.md">Література рідного краю</a></li>
+    <li><a href="./urok_pydsumok.md">Урок-підсумок</a></li>
+    <li><a href="./dodatkova_lyteratura.md">Додаткова література для читання</a></li>
     </ul>
 
 <div class="js-hypercomments-container">
