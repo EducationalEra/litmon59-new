@@ -21,12 +21,6 @@
                 Українська література доби Ренесансу і доби Бароко
             </a>
         <ul type="circle" class="super">
-    <li class="chapter " data-level="1" data-path="skovoroda.html">
-            <a href="skovoroda.html">
-                    <b></b>
-                Григорій Сковорода
-            </a>
-    </li>
         </ul>
     </li>
         </ul>

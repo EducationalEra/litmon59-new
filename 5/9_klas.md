@@ -6,9 +6,9 @@
 
 На тиждень — <i>2 год.</i> 
 
-Текстуальне вивчення творів — <i>59 год.</i> 
+Текстуальне вивчення творів — <i>56 год.</i> 
 
-Повторення й узагальнення — <i>1 год.</i> 
+Повторення й узагальнення — <i>2 год.</i> 
 
 Література рідного краю — <i>2 год.</i> 
 
@@ -16,7 +16,7 @@
 
 Розвиток мовлення — <i>4 год (у межах годин на текстуальне вивчення).</i>
 
-Резервний час — <i>4 год.</i>
+Резервний час — <i>6 год.</i>
 
 <hr>
 
@@ -58,14 +58,6 @@
                     <b></b>
                 Українська література доби Ренесансу і доби Бароко
             </a>
-        <ul type="circle" class="super">
-    <li class="chapter " data-level="1" data-path="skovoroda.html">
-            <a href="skovoroda.html">
-                    <b></b>
-                Григорій Сковорода
-            </a>
-    </li>
-        </ul>
     </li>
         </ul>
     </li>
@@ -75,12 +67,6 @@
                 Нова українська література
             </a>
         <ul type="square">
-    <li class="chapter " data-level="1" data-path="kotlyarevskyu.html">
-            <a href="kotlyarevskyu.html">
-                    <b></b>
-                Іван Котляревський
-            </a>
-    </li>
     <li class="chapter " data-level="2" data-path="osnovyanenko.html">
             <a href="osnovyanenko.html">
                     <b></b>
@@ -113,6 +99,12 @@
                 Тарас Шевченко
             </a>
         <ul class="circle">
+    <li class="chapter " data-level="1" data-path="kavkaz.html">
+            <a href="son.html">
+                    <b></b>
+                «Сон»
+            </a>
+    </li>
     <li class="chapter " data-level="1" data-path="kavkaz.html">
             <a href="kavkaz.html">
                     <b></b>
@@ -176,12 +168,6 @@
             </a>
     </li>
         </ul>
-    </li>
-    <li class="chapter " data-level="5" data-path="literatura_rydnogo_krayu.html">
-            <a href="literatura_rydnogo_krayu.html">
-                    <b></b>
-                Література рідного краю
-            </a>
     </li>
     <li class="chapter " data-level="6" data-path="urok_pydsumok.html">
             <a href="urok_pydsumok.html">

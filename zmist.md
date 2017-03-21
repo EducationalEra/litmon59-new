@@ -634,7 +634,13 @@
 		        <li class="chapter " data-level="2" data-path="5/pisni_ta_balady.html">
 		                <a href="5/pisni_ta_balady.html">
 		                        <b></b>
-		                    Родинно-побутові пісні. Українські народні балади
+		                    Родинно-побутові пісні.
+		                </a>
+		        </li>
+		        <li class="chapter " data-level="2" data-path="5/pisni_ta_balady.html">
+		                <a href="5/balady.html">
+		                        <b></b>
+		                    Українські народні балади
 		                </a>
 		        </li>
 		        <li class="chapter " data-level="3" data-path="5/davnya_literatura.html">
@@ -660,14 +666,6 @@
 		                        <b></b>
 		                    Українська література доби Ренесансу і доби Бароко
 		                </a>
-		            <ul type="circle" class="super">
-		        <li class="chapter " data-level="1" data-path="5/skovoroda.html">
-		                <a href="5/skovoroda.html">
-		                        <b></b>
-		                    Григорій Сковорода
-		                </a>
-		        </li>
-		            </ul>
 		        </li>
 		            </ul>
 		        </li>
@@ -677,12 +675,6 @@
 		                    Нова українська література
 		                </a>
 		            <ul type="square">
-		        <li class="chapter " data-level="1" data-path="5/kotlyarevskyu.html">
-		                <a href="5/kotlyarevskyu.html">
-		                        <b></b>
-		                    Іван Котляревський
-		                </a>
-		        </li>
 		        <li class="chapter " data-level="2" data-path="5/osnovyanenko.html">
 		                <a href="5/osnovyanenko.html">
 		                        <b></b>
@@ -715,6 +707,12 @@
 		                    Тарас Шевченко
 		                </a>
 		            <ul type="circle">
+		         <li class="chapter " data-level="1" data-path="5/kavkaz.html">
+		                <a href="5/son.html">
+		                        <b></b>
+		                    «Сон»
+		                </a>
+		        </li>
 		        <li class="chapter " data-level="1" data-path="5/kavkaz.html">
 		                <a href="5/kavkaz.html">
 		                        <b></b>
@@ -769,12 +767,6 @@
 		                <a href="5/ukr_poeziya.html">
 		                        <b></b>
 		                    Українська поезія другої половини ХІХ ст.
-		                </a>
-		        </li>
-		        <li class="chapter " data-level="9" data-path="5/nechyu_levickyu.html">
-		                <a href="5/nechyu_levickyu.html">
-		                        <b></b>
-		                    Іван Нечуй-Левицький
 		                </a>
 		        </li>
 		            </ul>
